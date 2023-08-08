@@ -1,0 +1,2 @@
+# divisores
+exercicio de while
